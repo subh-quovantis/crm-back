@@ -1,0 +1,26 @@
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T03:00:12.630Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T03:17:37.428Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T03:17:49.770Z"}
+error: No entity column "field" was found. {"timestamp":"2022-04-06T03:47:41.894Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T03:48:57.735Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T03:49:01.199Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T03:49:31.384Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T03:49:47.397Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T03:50:44.833Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T03:50:49.784Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T03:50:54.771Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T03:51:00.382Z"}
+error: Connection "default" was not found. {"timestamp":"2022-04-06T03:51:03.764Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T03:51:26.478Z"}
+error: No entity column "${e.field}" was found. {"timestamp":"2022-04-06T03:55:13.533Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T03:58:13.301Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T04:07:05.808Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T04:13:04.665Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T04:13:14.236Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T04:13:15.151Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T04:13:15.368Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T04:13:15.878Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-06T04:13:16.626Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T04:13:32.151Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T04:30:45.392Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-06T04:30:46.427Z"}

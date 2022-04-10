@@ -1,0 +1,996 @@
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T04:37:52.351Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T04:37:57.227Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T04:38:15.785Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T04:39:53.641Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T06:19:49.542Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T10:20:51.444Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.085Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.122Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.140Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.162Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.180Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.198Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.212Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.230Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.252Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.269Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.285Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.299Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.353Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.377Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.388Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.423Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.437Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.452Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.471Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.492Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.529Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.549Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.571Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.608Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.626Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.649Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.710Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.733Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.749Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.768Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.789Z"}
+error: Pool is closed. {"code":"POOL_CLOSED","timestamp":"2022-04-01T10:23:49.801Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.846Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.881Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.897Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.909Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.935Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.970Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:49.990Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:50.014Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:23:50.030Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:08.979Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.002Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.024Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.043Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.058Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.077Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.087Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.101Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.146Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.167Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.185Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.227Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.247Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.266Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.290Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.326Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.346Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.370Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.389Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.428Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.447Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.470Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.505Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.520Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.545Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.583Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.605Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.643Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.664Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.705Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.722Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.745Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.801Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.829Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.846Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.863Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.906Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:09.920Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.278Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.301Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.318Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.336Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.356Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.381Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.419Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.434Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.455Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.497Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.515Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.559Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.576Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.596Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.634Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.659Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.696Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.714Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.756Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.776Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.819Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.841Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.884Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.900Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.940Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.961Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:37.999Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:38.019Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:38.040Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:38.077Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:38.099Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:38.137Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:38.157Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:38.177Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:38.216Z"}
+error: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session. {"timestamp":"2022-04-01T10:24:38.240Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:06.808Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:06.982Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.308Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.321Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.437Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.450Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.518Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:07.661Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:07.670Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.727Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.797Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.808Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.860Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.868Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.941Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.955Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.979Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.992Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:07.998Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.042Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.070Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.137Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.163Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.176Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.183Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.194Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.255Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.302Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.309Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.399Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.405Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.420Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.448Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.455Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.548Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.555Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.561Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.567Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.599Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.621Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.645Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.653Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.663Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.687Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.706Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.715Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.742Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.759Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.778Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.784Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.806Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.812Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.829Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.871Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.879Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.886Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.900Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.911Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.927Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.933Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.942Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.961Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:08.996Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.009Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.016Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.028Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.038Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.045Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.055Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.098Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.104Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.113Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.134Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.141Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.147Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.153Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.161Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.183Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.199Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.211Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.225Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.236Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.243Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.248Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.259Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.266Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.273Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.288Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.294Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.302Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.317Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.324Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.338Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.348Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.359Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.367Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.374Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.381Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.387Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.409Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.425Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.431Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.464Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.471Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.485Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.490Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.495Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.500Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.508Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.522Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.530Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.545Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.555Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.561Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.568Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.577Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.584Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.594Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.604Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.610Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.628Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.637Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.643Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.648Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.659Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.666Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.675Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.683Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.698Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.704Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.715Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.721Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.727Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.732Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.738Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.744Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.754Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.759Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.764Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.769Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.781Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.791Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.796Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.802Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.807Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.812Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.818Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.824Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.838Z"}
+error: No repository for "Employee" was found. Looks like this entity is not registered in current "default" connection? {"timestamp":"2022-04-01T10:25:09.844Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.274Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.325Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.379Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.394Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.399Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.409Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.445Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.454Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.465Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.551Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.561Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.570Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.577Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.586Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.597Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.608Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.613Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.623Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.629Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.634Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.650Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.657Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.666Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.675Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.685Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.691Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.750Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.765Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.774Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.781Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.788Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.797Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.804Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.811Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.820Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.946Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.952Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.961Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.967Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.975Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.983Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.992Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:34.999Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.007Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.014Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.020Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.028Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.034Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.040Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.046Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.056Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.062Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.071Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.194Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.201Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.213Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.221Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.227Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.234Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.241Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.248Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.257Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.377Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.386Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.394Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.400Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.407Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.415Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.425Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.432Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.445Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.452Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.458Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.463Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.469Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.476Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.482Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.489Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.495Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.501Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.508Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.518Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.526Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.536Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.551Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.557Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.564Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.572Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.577Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.584Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.596Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.603Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.608Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.614Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.732Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.741Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.750Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.757Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.764Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.771Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.778Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.785Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.791Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.801Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.813Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.826Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.834Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.841Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.847Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.854Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.861Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.867Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.874Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.881Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.887Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.894Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.904Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.919Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.926Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.931Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.938Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.945Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.952Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.957Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.964Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:35.970Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.120Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.128Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.136Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.143Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.151Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.161Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.168Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.176Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.183Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.191Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.196Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.203Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.214Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.222Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.232Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.241Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.250Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.257Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.266Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.272Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.279Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.289Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.301Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.308Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.316Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.325Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.332Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.339Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.346Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.353Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.360Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.370Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.493Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.500Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.508Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.515Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.525Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.532Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.541Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.551Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.557Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.564Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.571Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.578Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.585Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.592Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.603Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.611Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.617Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.625Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.632Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.638Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.645Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.652Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.659Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.666Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.677Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.684Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.691Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.699Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.707Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.714Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.722Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.730Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.859Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.867Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.874Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.878Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.884Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.890Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.896Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.902Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.912Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.919Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.926Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.931Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.938Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.944Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.955Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.961Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.968Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.974Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.983Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:36.996Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.003Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.010Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.016Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.022Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.029Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.035Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.043Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.049Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.056Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.064Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.073Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.080Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.202Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.209Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.215Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.225Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.231Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.238Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.244Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.250Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.257Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.268Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.274Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.283Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.289Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.296Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.310Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.317Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.322Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.328Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.335Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.344Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.349Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.354Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.362Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.369Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.375Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.384Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.394Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.400Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.406Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.413Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.419Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.426Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.574Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.581Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.587Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.594Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.601Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.609Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.618Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.624Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.630Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.638Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.645Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.653Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.661Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.668Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.675Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.680Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.689Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.697Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.706Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.712Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.719Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.725Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.731Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.737Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.743Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.752Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.758Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.766Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.773Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.781Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.788Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.794Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.966Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.974Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.980Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.986Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:37.996Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.008Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.015Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.021Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.028Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.035Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.043Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.050Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.059Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.065Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.075Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.081Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.086Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.092Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.099Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.106Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.113Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.119Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.126Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.133Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.141Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.148Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.159Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.166Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.174Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.182Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.189Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.196Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.253Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.261Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.268Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.273Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.279Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.285Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.292Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.301Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.316Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.329Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.340Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.346Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.352Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.363Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.369Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.376Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.386Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.392Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.399Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.406Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.414Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.421Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.428Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.434Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.443Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.449Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.456Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.467Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.473Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.479Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.485Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.493Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.513Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.519Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.528Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.536Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.545Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.551Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.556Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.563Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.570Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.577Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.585Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.591Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.597Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.603Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.610Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.619Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.626Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.633Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.640Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.648Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.655Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.661Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.668Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.675Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.682Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.691Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.706Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.713Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.720Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.727Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.734Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.741Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.761Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.769Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.777Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.784Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.790Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.796Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.805Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:25:38.810Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.308Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.314Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.322Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.331Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.338Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.344Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.351Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.357Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.364Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.377Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.389Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.413Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.709Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.741Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.769Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.786Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.801Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.818Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.846Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.866Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.895Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.907Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.919Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.930Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.937Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.944Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.950Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.956Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.967Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.979Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:05.993Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.007Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.312Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.324Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.330Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.338Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.350Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.357Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.368Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.378Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.385Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.392Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.399Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.406Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.413Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.420Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.426Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.434Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.440Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.454Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.469Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.477Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.485Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.491Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.499Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.507Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.514Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.525Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.533Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.540Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.547Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.555Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.562Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.569Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.579Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.591Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.601Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.607Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.615Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.622Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.629Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.636Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.643Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.650Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.655Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.662Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.669Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.677Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.683Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.690Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.698Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.707Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.715Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.723Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.731Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.737Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.744Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.756Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.764Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.774Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.781Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.787Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.794Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.799Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.806Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.922Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.930Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.939Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.947Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.959Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.966Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.973Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.981Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.992Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:06.999Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.006Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.013Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.019Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.023Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.030Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.035Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.040Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.047Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.054Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.064Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.071Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.077Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.083Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.091Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.097Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.108Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.115Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.120Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.131Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.141Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.150Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.160Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.169Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.311Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.322Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.328Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.336Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.344Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.357Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.367Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.379Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.385Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.392Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.399Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.408Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.415Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.422Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.428Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.436Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.449Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.456Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.465Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.472Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.481Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.489Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.496Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.502Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.509Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.515Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.526Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.534Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.539Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.546Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.553Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.669Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.684Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.706Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.714Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.720Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.727Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.733Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.739Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.744Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.750Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.761Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.768Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.775Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.783Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.789Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.801Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.809Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.817Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.826Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.836Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.842Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.848Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.854Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.861Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.868Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.875Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.881Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.888Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.895Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.900Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.910Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.917Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:07.924Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.050Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.058Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.066Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.074Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.081Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.088Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.097Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.104Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.111Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.118Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.125Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.133Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.147Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.154Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.161Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.166Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.173Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.179Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.183Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.189Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.196Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.203Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.209Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.219Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.227Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.235Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.243Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.252Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.261Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.268Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.275Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.281Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.395Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.402Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.409Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.415Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.421Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.428Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.437Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.444Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.455Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.461Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.477Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.484Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.490Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.496Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.503Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.510Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.516Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.522Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.534Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.540Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.546Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.551Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.558Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.566Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.572Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.579Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.587Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.594Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.601Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.612Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.619Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.625Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.665Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.674Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.687Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.694Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.700Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.707Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.714Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.721Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.726Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.730Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.737Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.745Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.752Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.762Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.769Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.776Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.782Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.790Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.796Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.801Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.808Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.820Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.829Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.837Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.845Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.852Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.858Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.865Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.871Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.877Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.883Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.888Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.910Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.919Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.925Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.932Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.938Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.944Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.950Z"}
+error: ER_CON_COUNT_ERROR: Too many connections {"code":"ER_CON_COUNT_ERROR","errno":1040,"fatal":true,"sqlMessage":"Too many connections","timestamp":"2022-04-01T10:26:08.956Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T10:30:04.228Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T10:30:08.322Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T10:30:13.938Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:45:13.347Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:45:16.750Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:45:20.103Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:45:21.159Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:45:25.921Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:45:31.576Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:45:34.476Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:50:45.714Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-01T12:51:06.274Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:53:58.748Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-01T12:54:42.849Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:57:05.570Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:57:16.338Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:57:17.612Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:57:18.846Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:57:25.407Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:59:11.371Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:59:13.548Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:59:15.170Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:59:18.465Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:59:26.982Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T12:59:51.841Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T13:00:02.597Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T13:00:04.106Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T13:00:07.175Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-01T13:03:37.830Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-01T13:03:37.843Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-01T13:03:37.845Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-01T13:03:37.848Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-01T13:03:37.850Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T13:04:32.163Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T13:04:35.971Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-01T13:04:37.628Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-01T13:04:51.574Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-01T13:04:51.988Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-01T13:04:51.992Z"}

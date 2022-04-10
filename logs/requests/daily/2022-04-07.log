@@ -1,0 +1,20 @@
+info: ::ffff:127.0.0.1 - - [07/Apr/2022:10:48:48 +0000] "POST /admin/addEmployee HTTP/1.1" 201 51 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Apr/2022:10:50:07 +0000] "POST /admin/addEmployee HTTP/1.1" 201 51 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Apr/2022:10:53:31 +0000] "POST /admin/addEmployee HTTP/1.1" 201 372 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Apr/2022:10:59:06 +0000] "POST /admin/addEmployee HTTP/1.1" 201 394 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Apr/2022:11:00:17 +0000] "POST /admin/addEmployee HTTP/1.1" 201 398 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Apr/2022:11:01:03 +0000] "POST /addRole HTTP/1.1" 201 177 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Apr/2022:11:01:18 +0000] "POST /addRole HTTP/1.1" 201 170 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Apr/2022:11:01:38 +0000] "POST /addRole HTTP/1.1" 201 155 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Apr/2022:11:02:37 +0000] "POST /addDepartment HTTP/1.1" 201 176 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Apr/2022:11:02:57 +0000] "POST /addDepartment HTTP/1.1" 201 173 "-" "Thunder Client (https://www.thunderclient.com)"
+

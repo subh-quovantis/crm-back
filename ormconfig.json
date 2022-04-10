@@ -1,0 +1,27 @@
+[{   "name":"development",
+    "type": "mysql",
+    "host": "aws-crm.cz92leq6ebhu.us-east-1.rds.amazonaws.com",
+    "port": 3306,
+    "username": "admin",
+    "password": "Sukantapaly12",
+    "database": "crm",
+    "synchronize": true,
+    "logging": false,
+    
+    "entities": [
+       "src/entity/**/*.ts"
+    ],
+    
+    
+    "migrations": [
+       "src/migration/**/*.ts"
+    ],
+    "subscribers": [
+       "src/subscriber/**/*.ts"
+    ],
+    "cli": { 
+        "entitiesDir":"src/model", "migrationsDir":"src/migration", "subscribersDir":"src/subscriber"
+     }  
+ }
+
+]

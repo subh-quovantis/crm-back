@@ -1,0 +1,6 @@
+projectKey=CRM
+serverUrl=http://localhost:9050
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9050/dashboard?id=CRM
+ceTaskId=AX_9W2LSo5UcD0r8ve2w
+ceTaskUrl=http://localhost:9050/api/ce/task?id=AX_9W2LSo5UcD0r8ve2w

@@ -1,0 +1,1258 @@
+info: ::1 - - [05/Apr/2022:03:52:06 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:03:52:06 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:03:54:12 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:03:54:43 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:03:54:50 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:03:55:03 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:03:55:13 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:03:55:35 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::1 - - [05/Apr/2022:03:58:56 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:03:58:56 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:03:58:59 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::1 - - [05/Apr/2022:03:59:03 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:03:59:03 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:03:59:05 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::1 - - [05/Apr/2022:03:59:20 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:03:59:20 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:03:59:23 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::1 - - [05/Apr/2022:03:59:43 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:03:59:43 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:03:59:53 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:03:59:53 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:03:59:53 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:04:00:36 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:04:00:43 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:04:00:51 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::1 - - [05/Apr/2022:04:57:45 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:04:57:45 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:04:57:46 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:04:57:47 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:04:58:53 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:04:59:41 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:04:59:47 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:00:08 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::1 - - [05/Apr/2022:05:02:20 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:02:20 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:02:52 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::1 - - [05/Apr/2022:05:03:26 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:03:26 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:10:21 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:10:29 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:10:29 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:10:45 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:10:45 +0000] "POST /admin/getEmployee HTTP/1.1" - - "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:11:10 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:11:16 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:11:16 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:11:20 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:11:44 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:11:44 +0000] "POST /admin/getEmployee HTTP/1.1" - - "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:12:50 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:12:50 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::1 - - [05/Apr/2022:05:14:04 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:14:04 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:14:06 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:05:14:06 +0000] "POST /admin/getEmployee HTTP/1.1" 400 58 "http://localhost/" "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0"
+
+info: ::1 - - [05/Apr/2022:05:14:20 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:14:20 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:15:39 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:15:39 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:03 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:03 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:08 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:08 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:11 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:16 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:16 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:19 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:21 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:21 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:22 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:26 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:30 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:30 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:16:33 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:17:30 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:17:30 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:17:36 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:17:36 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:23:52 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:23:52 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:24:01 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:24:01 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:30:05 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:30:05 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:30:20 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:30:20 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:31:49 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:31:50 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:32:16 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:32:16 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:33:33 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:33:33 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:33:47 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:33:47 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:33:59 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:33:59 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:34:12 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:34:12 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:34:16 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:36:46 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:36:46 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:37:36 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:37:36 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:37:45 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:37:45 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:37:47 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:37:52 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:37:52 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:14 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:14 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:21 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:21 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:24 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:28 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:28 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:32 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:40 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:40 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:38:45 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:39:10 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:39:10 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:39:18 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:39:18 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:39:19 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:39:35 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:39:35 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:39:43 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:39:43 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:40:17 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:40:17 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:40:18 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:40:20 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:40:22 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:40:35 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:40:35 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:40:38 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:43:38 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:43:38 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:43:54 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:05:43:54 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:10:53:33 +0000] "GET /admin/getAllEmployees HTTP/1.1" 200 2684 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [05/Apr/2022:11:02:13 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:02:13 +0000] "GET /admin/getAllEmployees HTTP/1.1" 200 2684 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:02:23 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:02:23 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:02:53 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:02:53 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:03:07 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:03:07 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:03:13 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:03:13 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:03:21 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:03:21 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:05:10 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:05:10 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:05:29 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:05:29 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:05:40 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:05:40 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:06:16 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:06:16 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:07:53 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:07:53 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:08:28 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:08:28 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:09:06 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:09:06 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:09:19 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:09:19 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:09:21 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:10:20 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:10:20 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:10:37 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:10:37 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:11:13 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:11:13 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:11:18 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:11:24 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:11:24 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:11:35 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:11:35 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:11:37 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:11:46 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:11:46 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:04 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:04 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:21 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:21 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:22 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:24 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:26 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:26 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:31 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:52 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:52 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:59 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:12:59 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:13:03 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:13:11 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:13:11 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:13:16 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:13:16 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:14:56 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:14:56 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:16:07 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:16:07 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:16:10 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:16:42 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:16:42 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:16:45 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:17:10 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:17:10 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:17:14 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:17:23 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:17:23 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:17:24 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:17:51 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:17:51 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:18:51 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:18:51 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:18:55 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:19:21 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:19:22 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:19:24 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:19:39 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:19:40 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:19:53 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:19:53 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:19:55 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:20:05 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:20:05 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:20:06 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:20:10 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:22:09 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:22:09 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:23:55 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:23:55 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:24:04 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:24:04 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:24:48 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:24:48 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:27:28 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:27:28 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:27:29 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:27:57 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:27:57 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:28:39 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:28:39 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:28:59 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:28:59 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:29:08 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:29:08 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:32:00 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:32:00 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:32:07 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:32:07 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:35:56 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:35:56 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:36:02 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:36:02 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:36:07 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:36:07 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:36:46 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:36:46 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:37:40 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:37:40 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:37:48 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:37:48 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:37:54 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:37:54 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:37:59 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:38:05 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:38:05 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:38:14 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:38:14 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:38:20 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:38:20 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:38:41 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:38:41 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:39:03 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:39:03 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:40:07 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:40:07 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:40:15 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:40:15 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:40:18 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:40:27 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:40:27 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:40:50 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:40:50 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:40:51 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:41:14 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:41:14 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:43:00 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:43:00 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:43:33 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:43:33 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:44:09 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:44:09 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:44:21 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:44:21 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:44:22 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:44:23 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:44:38 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:44:38 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:44:55 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:44:55 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:45:17 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:45:17 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:45:37 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:45:37 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:45:39 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:45:51 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:45:51 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:45:56 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:45:56 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:46:22 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:46:22 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:47:03 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:47:03 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:47:13 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:47:13 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:48:45 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:48:45 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:49:15 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:49:15 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:50:31 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:50:31 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:50:36 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:50:36 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:52:52 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:52:52 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:53:05 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:53:05 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:53:09 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:53:32 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:53:32 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:53:44 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:53:44 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:53:48 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:54:09 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:54:09 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:54:11 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:54:14 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:54:17 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:54:17 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:54:26 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:54:26 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:54:27 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:55:04 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:55:04 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:55:15 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:55:15 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:55:23 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:55:23 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:55:33 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:55:33 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:55:49 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:11:55:49 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:05:25 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:05:25 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:08:06 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:08:06 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:13:23 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:13:23 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:13:48 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:13:48 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:26:25 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:26:25 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:26:48 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:26:48 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:26:56 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:26:56 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:26:58 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:28:11 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:28:11 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:29:09 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:29:09 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:30:33 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:30:33 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:32:01 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:32:02 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:32:27 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:32:27 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:33:51 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:33:51 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:52:28 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:52:28 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:52:33 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:12:52:33 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:09:11 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:09:11 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:09:43 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:09:43 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:10:04 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:10:04 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:10:50 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:10:50 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:12:14 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:12:14 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:12:24 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:12:24 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:12:33 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:12:33 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:13:08 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:13:08 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:14:14 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:14:14 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:15:36 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:24:31 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:24:31 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:26:12 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:26:12 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:27:52 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:27:52 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:28:13 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:28:13 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:38:21 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:38:21 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:48:28 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:48:28 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:50:33 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:13:50:34 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:14:04:26 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:14:04:26 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:34:55 +0000] "GET /getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:34:57 +0000] "GET /getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:35:33 +0000] "POST /addRole HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:36:31 +0000] "GET /users/getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:36:32 +0000] "GET /users/getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:36:32 +0000] "GET /users/getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:36:33 +0000] "GET /users/getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:36:57 +0000] "POST /users/addRole HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:37:39 +0000] "GET /admin/getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:37:40 +0000] "GET /admin/getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:37:40 +0000] "GET /admin/getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:37:42 +0000] "GET /admin/getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:37:42 +0000] "GET /admin/getAllRoles HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:39:20 +0000] "GET /getAllRoles HTTP/1.1" 400 49 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:39:25 +0000] "GET /getAllRoles HTTP/1.1" 400 49 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:39:25 +0000] "GET /getAllRoles HTTP/1.1" 400 49 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:39:30 +0000] "POST /users/addRole HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:39:39 +0000] "POST /addRole HTTP/1.1" 201 160 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:40:22 +0000] "GET /getAllRoles HTTP/1.1" 200 392 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:14:46:37 +0000] "GET /getAllDepartment HTTP/1.1" 200 188 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [05/Apr/2022:14:56:14 +0000] "OPTIONS /getAllRoles HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:14:56:14 +0000] "GET /getAllRoles HTTP/1.1" 200 392 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:01 +0000] "OPTIONS /users/login HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:01 +0000] "POST /users/login HTTP/1.1" 403 49 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:04 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:05 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:06 +0000] "OPTIONS /users/login HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:06 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:15 +0000] "OPTIONS /users/login HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:16 +0000] "POST /users/login HTTP/1.1" 403 49 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:19 +0000] "POST /users/login HTTP/1.1" 200 386 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:21 +0000] "OPTIONS /admin/getEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:04:21 +0000] "POST /admin/getEmployee HTTP/1.1" 200 407 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:12:19 +0000] "OPTIONS /getAllDepartment HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:12:19 +0000] "GET /getAllDepartment HTTP/1.1" 200 188 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:16:14 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:16:14 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:18:41 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:18:41 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:39:01 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:39:01 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:39:29 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:39:29 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:40:21 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:40:21 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:40:26 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:40:31 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:40:31 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:40:36 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:40:36 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:40:57 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:40:57 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:41:09 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:41:09 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:41:14 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:41:18 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:41:18 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:41:20 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:41:34 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:41:34 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:41:38 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:04 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:04 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:08 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:11 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:11 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:21 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:21 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:27 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:27 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:33 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:33 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:40 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:42:40 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:43:33 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:43:33 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:46:01 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:46:01 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:46:03 +0000] "OPTIONS /deleteEmployee HTTP/1.1" 404 47 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:46:11 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:46:11 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:46:20 +0000] "OPTIONS /deleteEmployee HTTP/1.1" 404 47 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:15:46:59 +0000] "DELETE /admin/deleteEmployee HTTP/1.1" 200 63 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [05/Apr/2022:15:47:05 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:47:05 +0000] "GET /admin/getAllEmployees HTTP/1.1" 200 2343 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:47:56 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:47:56 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:56:38 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:56:38 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:56:50 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:56:50 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:57:44 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:15:57:44 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:01:36 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:01:36 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:01:42 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:01:42 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:04:36 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:04:36 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:04:42 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:04:42 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:05:16 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:05:16 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:05:24 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:05:24 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:10:13 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:10:13 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:15:35 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:15:35 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:16:16 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:16:17 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:19:56 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:19:56 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:19:58 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:20:12 +0000] "OPTIONS /admin/updateEmployee HTTP/1.1" 200 3 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:20:12 +0000] "POST /admin/updateEmployee HTTP/1.1" 404 47 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:20:47 +0000] "PUT /admin/updateEmployee HTTP/1.1" 400 56 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:20:56 +0000] "PUT /admin/updateEmployee HTTP/1.1" 200 53 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [05/Apr/2022:16:21:15 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:21:15 +0000] "GET /admin/getAllEmployees HTTP/1.1" 200 2332 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:21:18 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:21:25 +0000] "OPTIONS /admin/updateEmployee HTTP/1.1" 200 3 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:21:25 +0000] "PUT /admin/updateEmployee HTTP/1.1" 200 53 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:21:46 +0000] "OPTIONS /admin/updateEmployee HTTP/1.1" 200 3 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:21:46 +0000] "PUT /admin/updateEmployee HTTP/1.1" 400 56 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:21:49 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:21:49 +0000] "GET /admin/getAllEmployees HTTP/1.1" 200 61 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:21:56 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:21:56 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:22:00 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:22:41 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:22:41 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:23:22 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:23:22 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:24:16 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:24:16 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:25:33 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:25:33 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:25:36 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:26:14 +0000] "OPTIONS /users/login HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:26:14 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:26:19 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:26:35 +0000] "OPTIONS /users/login HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:26:35 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:26:39 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:26:42 +0000] "OPTIONS /users/login HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:26:42 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:26:56 +0000] "OPTIONS /users/login HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:26:56 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:27:08 +0000] "OPTIONS /users/login HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:27:08 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:27:13 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:27:21 +0000] "OPTIONS /users/login HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:27:21 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:27:24 +0000] "POST /users/login HTTP/1.1" 403 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:27:33 +0000] "POST /users/login HTTP/1.1" 403 74 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:27:50 +0000] "POST /users/login HTTP/1.1" 403 74 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:28:10 +0000] "POST /users/login HTTP/1.1" 403 74 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:28:11 +0000] "POST /users/login HTTP/1.1" 403 74 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:28:11 +0000] "POST /users/login HTTP/1.1" 403 74 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:28:21 +0000] "POST /users/login HTTP/1.1" 403 74 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:29:26 +0000] "POST /users/login HTTP/1.1" 403 49 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:29:32 +0000] "POST /users/login HTTP/1.1" 200 375 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [05/Apr/2022:16:29:46 +0000] "OPTIONS /users/login HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:29:46 +0000] "POST /users/login HTTP/1.1" 200 375 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:30:07 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:30:07 +0000] "GET /admin/getAllEmployees HTTP/1.1" 200 2332 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:30:55 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:30:55 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:31:52 +0000] "OPTIONS /admin/deleteEmployee HTTP/1.1" 200 6 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:31:52 +0000] "DELETE /admin/deleteEmployee HTTP/1.1" 400 56 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:32:02 +0000] "OPTIONS /admin/deleteEmployee HTTP/1.1" 200 6 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:32:02 +0000] "DELETE /admin/deleteEmployee HTTP/1.1" 400 56 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:33:30 +0000] "OPTIONS /admin/deleteEmployee HTTP/1.1" 200 6 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:33:30 +0000] "DELETE /admin/deleteEmployee HTTP/1.1" 400 56 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:33:47 +0000] "OPTIONS /admin/deleteEmployee HTTP/1.1" 200 6 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:33:47 +0000] "DELETE /admin/deleteEmployee HTTP/1.1" 400 56 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:34:02 +0000] "OPTIONS /admin/updateEmployee HTTP/1.1" 200 3 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:34:02 +0000] "PUT /admin/updateEmployee HTTP/1.1" 200 53 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:34:49 +0000] "PUT /admin/updateEmployee HTTP/1.1" 400 56 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:34:58 +0000] "PUT /admin/updateEmployee HTTP/1.1" 400 56 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [05/Apr/2022:16:35:33 +0000] "PUT /admin/updateEmployee HTTP/1.1" 200 53 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [05/Apr/2022:16:35:54 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:35:54 +0000] "GET /admin/getAllEmployees HTTP/1.1" 200 2321 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:35:58 +0000] "OPTIONS /admin/updateEmployee HTTP/1.1" 200 3 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:35:58 +0000] "PUT /admin/updateEmployee HTTP/1.1" 200 53 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:37:53 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:37:53 +0000] "GET /admin/getAllEmployees HTTP/1.1" 200 61 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:37:56 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:38:06 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:38:06 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:38:09 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:40:12 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:40:12 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:40:49 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:40:49 +0000] "GET /admin/getAllEmployees HTTP/1.1" 200 2321 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:40:59 +0000] "OPTIONS /admin/deleteEmployee HTTP/1.1" 200 6 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:40:59 +0000] "DELETE /admin/deleteEmployee HTTP/1.1" 400 56 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:41:17 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:41:17 +0000] "GET /admin/getAllEmployees HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:41:38 +0000] "OPTIONS /admin/deleteEmployee HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:41:38 +0000] "POST /admin/deleteEmployee HTTP/1.1" 200 63 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:41:50 +0000] "OPTIONS /admin/getAllEmployees HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+
+info: ::1 - - [05/Apr/2022:16:41:50 +0000] "GET /admin/getAllEmployees HTTP/1.1" 200 2035 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+

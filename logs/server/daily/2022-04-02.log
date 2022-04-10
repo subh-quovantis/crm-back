@@ -1,0 +1,5 @@
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-02T12:19:17.542Z"}
+error: Cannot find connection default because its not defined in any orm configuration files. {"timestamp":"2022-04-02T12:20:31.946Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-02T12:21:21.579Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-02T12:21:25.478Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-02T12:21:30.051Z"}

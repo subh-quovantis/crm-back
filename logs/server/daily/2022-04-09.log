@@ -1,0 +1,427 @@
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:18:33.130Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:18:46.243Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:24:29.705Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:24:33.463Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:24:34.456Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:24:37.611Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:28:49.213Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:29:37.607Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:29:46.676Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:30:27.027Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:31:08.663Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:31:16.456Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:31:45.241Z"}
+error: 
+    status - 500 
+    message - ValidationError: "id" must be a number 
+    url - /admin/isDeleted 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T04:32:02.468Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:33:04.915Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:33:31.036Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:33:54.624Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:34:02.536Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:36:48.227Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:36:49.393Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:36:54.403Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:36:56.174Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:37:18.620Z"}
+error: 
+    status - 500 
+    message - ValidationError: "role_id" is not allowed 
+    url - /admin/updateEmployee 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T04:37:24.530Z"}
+error: 
+    status - 500 
+    message - ValidationError: "role_id" is not allowed 
+    url - /admin/updateEmployee 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T04:37:25.022Z"}
+error: 
+    status - 500 
+    message - ValidationError: "role_id" is not allowed 
+    url - /admin/updateEmployee 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T04:37:26.656Z"}
+error: 
+    status - 500 
+    message - ValidationError: "role_id" is not allowed 
+    url - /admin/updateEmployee 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T04:37:27.405Z"}
+error: 
+    status - 500 
+    message - ValidationError: "role_id" is not allowed 
+    url - /admin/updateEmployee 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T04:37:31.058Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:37:51.439Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:39:47.968Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:43:13.106Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:43:24.922Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:43:33.579Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:43:47.076Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:43:48.918Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:43:50.695Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:44:15.252Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:44:20.233Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:44:24.075Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:44:52.890Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:44:54.202Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:45:25.587Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:45:29.624Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:45:35.676Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:45:44.805Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:46:26.752Z"}
+error: 
+    status - 500 
+    message - ValidationError: "department" is not allowed to be empty 
+    url - /addDepartment 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T04:46:30.539Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:47:20.295Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:47:50.543Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:48:07.482Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:48:11.724Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T04:48:25.824Z"}
+error: 
+    status - 500 
+    message - ValidationError: "id" must be a number 
+    url - /getDepartmentbyId 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T04:48:42.393Z"}
+error: 
+    status - 500 
+    message - ValidationError: "id" must be a number 
+    url - /getDepartmentbyId 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T04:48:49.765Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T05:22:30.230Z"}
+error: 
+    status - 500 
+    message - ValidationError: "id" must be a number 
+    url - /getRolebyId 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T05:22:47.608Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T05:32:15.768Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T11:14:21.838Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:15:24.176Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:15:25.284Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:15:26.568Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:15:27.664Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:15:39.096Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:15:41.122Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:15:57.167Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:16:06.802Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:16:08.096Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:16:14.756Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:16:19.801Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:16:32.387Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:16:48.280Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:16:51.497Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:16:52.514Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:16:54.168Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:17:11.574Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:17:18.026Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:17:27.068Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:18:45.429Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:19:04.551Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:19:07.612Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:20:26.530Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:20:32.201Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:20:37.257Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:20:40.883Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:21:16.246Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:21:21.638Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:21:27.460Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:21:33.119Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:21:36.159Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:21:40.899Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:21:42.082Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:21:56.569Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:22:04.644Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:22:13.619Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:22:16.876Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:22:20.702Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:22:28.029Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:23:37.719Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:23:41.330Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:23:47.839Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:24:03.298Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:24:10.610Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:24:20.427Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:24:28.740Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:24:33.987Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:24:42.363Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:24:50.916Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:25:00.012Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:25:08.108Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:25:18.331Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:25:21.818Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:25:26.699Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:25:38.671Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:25:46.664Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:25:51.029Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:25:56.154Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:25:58.782Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:26:11.111Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:26:26.979Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:26:29.853Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:26:33.671Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:26:39.034Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:26:49.497Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:26:50.576Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:28:53.148Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:28:57.622Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:29:00.081Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:29:09.849Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:29:11.254Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:29:19.472Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:29:29.108Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:29:32.995Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:29:34.924Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:29:44.209Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:29:49.545Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:29:55.574Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:30:00.522Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:30:06.886Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:30:15.457Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:30:24.641Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:30:31.388Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:30:38.779Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:30:42.383Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:31:07.330Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:31:34.268Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:32:26.898Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:32:28.126Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:32:50.942Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:33:17.807Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:33:22.724Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:33:29.782Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:33:32.996Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:33:38.505Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:33:49.634Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:33:54.642Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:34:01.998Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:34:09.626Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:34:15.654Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:34:22.245Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:34:29.300Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:34:34.277Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:34:41.682Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:34:47.500Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:34:50.539Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:34:56.491Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:35:03.070Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:35:07.019Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:35:10.807Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:35:31.865Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:35:40.030Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:35:45.619Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:35:50.369Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:35:57.252Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:36:02.898Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:36:06.132Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:36:10.015Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:36:29.214Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:36:30.450Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:36:32.350Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:36:39.622Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:36:42.965Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:36:46.508Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:36:55.395Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:37:01.937Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:37:05.330Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:37:10.374Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:38:12.877Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:38:23.660Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:38:30.246Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:38:34.183Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:38:42.628Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:38:48.974Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:38:50.692Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:38:54.882Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:38:56.732Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:02.403Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:06.398Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:08.812Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:10.440Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:15.557Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:19.235Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:21.603Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:23.007Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:24.929Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:27.085Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:33.087Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:37.787Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:40.243Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:41.784Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:43.534Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:45.027Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:50.546Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:53.531Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:54.821Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:56.514Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:39:59.257Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:40:08.891Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:40:10.040Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:40:12.219Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:40:14.238Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:40:16.389Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:40:19.270Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:40:28.157Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:40:31.030Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:41:41.506Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:41:51.133Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:41:52.776Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:41:57.701Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:09.734Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:11.822Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:26.960Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:32.035Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:34.760Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:36.479Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:38.556Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:44.200Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:46.472Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:47.885Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:49.606Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:51.078Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:55.352Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:42:58.366Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:01.766Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:06.372Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:08.280Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:10.464Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:11.917Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:13.380Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:19.468Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:21.914Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:23.183Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:24.788Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:26.033Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:43:59.744Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:04.451Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:09.867Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:13.078Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:18.463Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:20.772Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:32.107Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:34.067Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:35.892Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:43.791Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:46.922Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:48.768Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:52.928Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:54.753Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:58.457Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:44:59.923Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:03.942Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:08.457Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:09.532Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:12.058Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:14.439Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:34.291Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:40.680Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:44.656Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:48.828Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:51.814Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:45:59.158Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:46:07.505Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:46:11.343Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:46:17.398Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:46:24.128Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:46:28.595Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:46:32.138Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:47:00.696Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:47:13.598Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:47:18.405Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:47:25.664Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:47:28.798Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:47:32.839Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:47:40.039Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:47:45.986Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:47:55.097Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:48:05.576Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:48:10.804Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:48:15.805Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:48:27.623Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:48:41.000Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:48:57.362Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:49:01.691Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:49:03.794Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:49:12.251Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:49:16.952Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:49:23.337Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:49:31.864Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:49:35.331Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:49:39.651Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:49:47.038Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:49:59.143Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:50:02.085Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:50:11.083Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:50:16.418Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:50:19.333Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:50:27.208Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:50:36.725Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:50:39.901Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:50:44.416Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:51:22.317Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:51:39.739Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:51:42.032Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:52:01.777Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:52:05.890Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:52:16.326Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:52:32.538Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:52:36.639Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:52:39.710Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:52:43.111Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:53:13.175Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:53:19.839Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:53:27.227Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:53:31.428Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:53:34.496Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:53:36.763Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:53:43.801Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:53:58.118Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:54:03.604Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:54:05.803Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:54:13.208Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:54:15.269Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:54:23.255Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:54:28.814Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:54:40.590Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:54:45.712Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:54:55.379Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:55:15.167Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:55:31.407Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:55:36.777Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:55:47.150Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:55:52.835Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:55:56.293Z"}
+info: Server started at http://localhost:4000 {"timestamp":"2022-04-09T16:59:20.543Z"}
+error: 
+    status - 500 
+    message - ValidationError: "id" must be a number 
+    url - /getRolebyId 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T16:59:47.948Z"}
+error: 
+    status - 500 
+    message - ValidationError: "id" must be a number 
+    url - /getRolebyId 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-04-09T16:59:48.976Z"}

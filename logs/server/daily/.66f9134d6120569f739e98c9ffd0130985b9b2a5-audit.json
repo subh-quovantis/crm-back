@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs\\server\\daily\\.66f9134d6120569f739e98c9ffd0130985b9b2a5-audit.json",
+    "files": [
+        {
+            "date": 1648359765705,
+            "name": "logs\\server\\daily\\2022-03-27.log",
+            "hash": "07d8c609c7e4ccf8c6b30f9e8b16fd9a"
+        },
+        {
+            "date": 1648444202284,
+            "name": "logs\\server\\daily\\2022-03-28.log",
+            "hash": "39b64e323adeb328510aab6af5d7cf03"
+        },
+        {
+            "date": 1648529894364,
+            "name": "logs\\server\\daily\\2022-03-29.log",
+            "hash": "d74b6825d91a635a6edbf0f6695a84c1"
+        },
+        {
+            "date": 1648614969193,
+            "name": "logs\\server\\daily\\2022-03-30.log",
+            "hash": "55bc341f68ef3250d18d50e5c096febb"
+        },
+        {
+            "date": 1648700521031,
+            "name": "logs\\server\\daily\\2022-03-31.log",
+            "hash": "3313703e0f78528c302226b2d5a37a14"
+        },
+        {
+            "date": 1648787872113,
+            "name": "logs\\server\\daily\\2022-04-01.log",
+            "hash": "2c9105faf0cb4765067af8ef33ea8c0b"
+        },
+        {
+            "date": 1648901215838,
+            "name": "logs\\server\\daily\\2022-04-02.log",
+            "hash": "b7b595e9d7e98dde19b5d80210695773"
+        },
+        {
+            "date": 1649045483762,
+            "name": "logs\\server\\daily\\2022-04-04.log",
+            "hash": "da58082e010614c87a8ae0c6d09cd788"
+        },
+        {
+            "date": 1649135455423,
+            "name": "logs\\server\\daily\\2022-04-05.log",
+            "hash": "729b7c2224a562ba0fdead7ee878a3d4"
+        },
+        {
+            "date": 1649214012236,
+            "name": "logs\\server\\daily\\2022-04-06.log",
+            "hash": "0876ca76ec366866d3cdb328ca5ec156"
+        },
+        {
+            "date": 1649328502369,
+            "name": "logs\\server\\daily\\2022-04-07.log",
+            "hash": "71852305b6a4d10c8f7ee5f7ce74d7a7"
+        },
+        {
+            "date": 1649400965712,
+            "name": "logs\\server\\daily\\2022-04-08.log",
+            "hash": "f227efaaf5b5d16354d3766f2822ac90"
+        },
+        {
+            "date": 1649477912805,
+            "name": "logs\\server\\daily\\2022-04-09.log",
+            "hash": "ce91c6227af7d880fa54d1076672b80b"
+        },
+        {
+            "date": 1649565495635,
+            "name": "logs\\server\\daily\\2022-04-10.log",
+            "hash": "126da3639769cabf8ebbf90d776ddb06"
+        }
+    ],
+    "hashType": "md5"
+}
